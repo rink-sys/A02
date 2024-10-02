@@ -11,7 +11,7 @@ Tutorial for getting started with Git:
 - After this step, our directory is ready and we can perform actions on it through various commands such as:
   git status = To check and see if git is aware about the files running and being modified.
   git add <file-name> = To add files to the final stage where they get added tot he directory.
-  git commit -m "Your commit message" = **Commit** all the added files to the directory with a message to keep track of progress.
+  git commit -m "Your commit message" = **Commit** all the added files to the directory with a message to keep track of progress. 
 
 Tutorial for getting started with Github:
 - First, we need to make an account on **Github**. Use this link: https://github.com/join
